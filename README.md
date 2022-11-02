@@ -1,6 +1,6 @@
 # Getting started Xamarin SparkLine
 
-This repository contains sample for how to get started with the [Syncfusion Xamarin.Forms SparkLine](https://help.syncfusion.com/xamarin/sparkline/getting-started) control. The Xamarin.Forms SparkLine is a very small chart, typically drawn without axes or coordinates. It presents the general shape of data in a simple and highly condensed way.
+This repository contains sample to get started with the [Syncfusion Xamarin.Forms SparkLine](https://help.syncfusion.com/xamarin/sparkline/getting-started) control. The Xamarin.Forms SparkLine is a very small chart, typically drawn without axes or coordinates. It presents the general shape of data in a simple and highly condensed way.
 
 ## Syncfusion controls:
 
